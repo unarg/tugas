@@ -278,6 +278,7 @@ begin
       com.Params.ParamByName('NO_BUKTI').Value := txtNoInvoice.Text;
       com.ExecSQL;
      // ShowMessage('UPDATE KD & NM BAHAN');
+     ShowMessage('COBA EDIT GIT 2');
 
 //    com.SQL.Clear;
 //    com.SQL.Add(' UPDATE belid, account SET BELID.NA_BHN = account.NAMA WHERE belid.KD_BHN = account.ACNO '
