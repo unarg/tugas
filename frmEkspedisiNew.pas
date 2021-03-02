@@ -441,6 +441,8 @@ begin
 
         com2.Open;
         ShowMessage('1');
+        
+        ShowMessage('Coba Edit Git');
 
       end
       else
